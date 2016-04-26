@@ -12,6 +12,8 @@ body{color:#666; background-color:#fff;font: 12px/1.5 '微软雅黑',tahoma,aria
 .clearfix:after {visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
 .clearfix {zoom:1;}	
 /*旋转木马必要样式*/
+
+
 .poster-main{ position:relative;width:800px;height:270px;}
 .poster-main a,.poster-main img{display:block;}
 .poster-main .poster-list{width:800px;height:270px;}
